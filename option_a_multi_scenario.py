@@ -7,7 +7,7 @@ from the_goal_optimization import create_goal_optimization_model
 
 st.set_page_config(page_title="Multi-Scenario Comparison", layout="wide")
 
-st.title("🏭 The Goal: Multi-Scenario Comparison")
+st.title("🏭 The Goal: Multi-Scenario Comparison - Congratilations Jafet!!!")
 st.info("**What Python Can Do That Excel Cannot:** Compare 3 scenarios simultaneously with automatic insights!")
 
 # Initialize scenarios
